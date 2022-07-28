@@ -78,12 +78,11 @@ This project aims to design and develop an E-commerce website that lets people s
 - Single Web Page: apply the concept of a website that only contains one HTML page.
 
 
-## AWS Website Link
-http://ec2-15-185-146-219.me-south-1.compute.amazonaws.com/
+
 
 ## How to run the program locally
 -	clone project
-```clone git : git clone https://github.com/MujtabaMohsin/Foodbox```
+```clone git : git clone https://github.com/janmejayy/FoodBox_WebApplication```
 
 -	Import the “\Back-End\foodbox\database\foodbox.sql” file to your database administration tool.
 -	Go to “\Back-End\foodbox\src\main\resources\application.properties” file, open it.

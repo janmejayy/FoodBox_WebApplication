@@ -1,6 +1,9 @@
 # Foodbox
 This project aims to design and develop an E-commerce website that lets people shop food items of different cuisines at affordable prices and deliver the products to their addresses. It was developed using Angular and Spring boot It was created as the Capstone Project for the Full Stack Java Developer course.
 
+## Flowcharts of The Application
+![Blank Diagram](https://user-images.githubusercontent.com/64940728/133873445-3eee3d7a-7d70-4b1d-8a67-cf709a9604fb.png)
+
 ## Product Backlog:
 ### Programming:
 1.	Create database and tables.
@@ -60,8 +63,7 @@ This project aims to design and develop an E-commerce website that lets people s
 - MySQL: to use it as database management system.
 - phpMyAdmin: to administrate and manage the database manually.
 
-## Flowcharts of The Application
-![Blank Diagram](https://user-images.githubusercontent.com/64940728/133873445-3eee3d7a-7d70-4b1d-8a67-cf709a9604fb.png)
+
 
 
 ## Core concepts used in the project. 

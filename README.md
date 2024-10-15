@@ -1,6 +1,13 @@
 # Foodbox
 This project aims to design and develop an E-commerce website that lets people shop food items of different cuisines at affordable prices and deliver the products to their addresses. It was developed using Angular and Spring boot It was created as the Capstone Project for the Full Stack Java Developer course.
 
+## Screenshots
+
+![screenshot_1133](https://user-images.githubusercontent.com/64940728/133873673-2cc4f2a3-00c9-4484-839b-969534a0f57c.jpg)
+
+other screenshots can be found in the Documentation & Screenshots file
+
+
 ## Flowcharts of The Application
 ![Blank Diagram](https://user-images.githubusercontent.com/64940728/133873445-3eee3d7a-7d70-4b1d-8a67-cf709a9604fb.png)
 
@@ -109,9 +116,5 @@ This project aims to design and develop an E-commerce website that lets people s
 -	It would be displayed in http://localhost:4200/
 
 
-## Screenshots
 
-![screenshot_1133](https://user-images.githubusercontent.com/64940728/133873673-2cc4f2a3-00c9-4484-839b-969534a0f57c.jpg)
-
-other screenshots can be found in the Documentation & Screenshots file
 
